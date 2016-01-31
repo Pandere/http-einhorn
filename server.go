@@ -42,7 +42,7 @@
 package einhorn
 
 import (
-	"github.com/stripe/go-einhorn/einhorn"
+	"github.com/Pandere/go-einhorn/einhorn"
 	"net"
 	"net/http"
 	"os"
